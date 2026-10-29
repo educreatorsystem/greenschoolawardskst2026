@@ -26,3 +26,8 @@ Video TikTok dipaparkan menggunakan pemain terbenam 9:16. Main balik tertakluk k
 
 ## Kandungan
 Laman mengandungi lencana, dokumentasi kempen, enam tonggak, data tenaga/air, Eco Garden, nota semakan data dan animasi hover. ZIP ini tidak mengandungi kelayakan akses, konfigurasi Sites atau dokumen sumber dengan maklumat hubungan peribadi.
+
+## Pilihan bahasa
+Bahasa Melayu, English, 中文 (Mandarin tulisan ringkas) dan தமிழ் tersedia melalui pemilih bahasa pada header. Pilihan diingati dalam pelayar. Terjemahan merangkumi teks halaman, jadual, kad tonggak, dialog, mesej simpan, perkongsian, pemasangan dan label kebolehcapaian. Nama sekolah, nama sumber, angka dan hashtag dikekalkan. Teks dalam gambar dan video ialah kandungan asal dan tidak diterjemahkan.
+
+Fail tambahan: translations.js menyimpan kamus terjemahan, language.js mengendalikan pertukaran bahasa. Kedua-duanya tersedia luar talian selepas cache pertama. Tetapan bahasa dan pilihan tindakan disimpan berasingan.
